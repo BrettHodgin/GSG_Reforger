@@ -1,5 +1,0 @@
-SCR_PlayerController {
- ID "1A9BA6BEFA06E3B1"
- m_sClutchImageset "{7B1333792CC378A8}Configs/ClutchAtlas.imageset"
- m_sClutchConfigFile "{DC4342C5059E7812}Configs/GearboxConfig_Global.conf"
-}
