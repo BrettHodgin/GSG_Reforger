@@ -1,8 +1,0 @@
-GameProject {
- ID "GestureShiftGearbox"
- GUID "6870B71A6A53560A"
- TITLE "Gesture Shift Gearbox"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
