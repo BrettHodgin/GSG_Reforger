@@ -1,0 +1,40 @@
+FrameWidgetClass {
+ Name "rootFrame"
+ {
+  ImageWidgetClass "{68711B7846F13250}" {
+   Name "ClutchCircle"
+   Slot FrameWidgetSlot "{68711B7846F1323C}" {
+    Anchor 0.5 1 0.5 1
+    PositionX -14
+    OffsetLeft -14
+    PositionY -110
+    OffsetTop -110
+    SizeX 28
+    OffsetRight -14
+    SizeY 28
+    OffsetBottom 82
+   }
+   Texture "{7B1333792CC378A8}Configs/ClutchAtlas.imageset"
+   Image "ShifterAtlas"
+   Size 56 56
+  }
+  ImageWidgetClass "{68713593084D731C}" {
+   Name "ShiftPattern"
+   Slot FrameWidgetSlot "{68713593084D72E0}" {
+    Anchor 0.5 1 0.5 1
+    PositionX -76
+    OffsetLeft -76
+    PositionY -172
+    OffsetTop -172
+    SizeX 152
+    OffsetRight -76
+    SizeY 152
+    OffsetBottom 20
+   }
+   Opacity 0.25
+   Texture "{7B1333792CC378A8}Configs/ClutchAtlas.imageset"
+   Image "ShiftPatternAtlas"
+   Size 152 152
+  }
+ }
+}

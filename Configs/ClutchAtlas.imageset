@@ -1,0 +1,22 @@
+ImageSetClass {
+ RefSize 520 520
+ Textures {
+  ImageSetTextureClass "{68711B7899BB28F9}" {
+   screenSize FHD
+   size 520 520
+   path "{380C805055F6DF2A}Configs/ClutchAtlas-100_atlas.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass ShifterAtlas {
+   Pos 3 3
+   Size 56 56
+   Flags 0 0
+  }
+  ImageSetDefClass ShiftPatternAtlas {
+   Pos 62 3
+   Size 152 152
+   Flags 0 0
+  }
+ }
+}
