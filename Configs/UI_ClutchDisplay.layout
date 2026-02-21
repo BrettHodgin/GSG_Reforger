@@ -35,6 +35,7 @@ FrameWidgetClass {
    Texture "{7B1333792CC378A8}Configs/ClutchAtlas.imageset"
    Image "ShiftPatternAtlas"
    Size 152 152
+   "Flip Vertically" 1
   }
  }
 }

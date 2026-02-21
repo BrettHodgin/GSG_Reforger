@@ -1,0 +1,32 @@
+SCR_ClutchConfig {
+ m_aShiftPatterns {
+  SCR_GearboxPattern "{68774930760C0C3E}" {
+   m_sName "Skoda 4 Speed"
+   m_aVehicleFilters {
+    "S105"
+   }
+   m_aGearSlots {
+    SCR_GearSlot "{68774930465F9EFE}" {
+    }
+    SCR_GearSlot "{6877493046619E4E}" {
+     m_iGearIndex 2
+     m_vPosition -50 80 0
+    }
+    SCR_GearSlot "{6877493046342135}" {
+     m_iGearIndex 3
+     m_vPosition 0 -80 0
+    }
+    SCR_GearSlot "{6877493045C374DE}" {
+     m_iGearIndex 4
+     m_vPosition 0 80 0
+    }
+    SCR_GearSlot "{68774930454838C8}" {
+     m_iGearIndex -1
+     m_vPosition 50 80 0
+    }
+   }
+   m_sQuadName "ShiftPattern"
+   m_fSensitivityMultiplier 0.7
+  }
+ }
+}
